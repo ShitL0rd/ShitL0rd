@@ -1,6 +1,6 @@
 - Sup, I’m @ShitL0rd
 -  I’m interested in: stuff...
--  I’m currently learning: Java, js, perl & python
+-  I’m currently learning: Java, C# & Python
 -  How to reach me: why would you?
 
 <!---
